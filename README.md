@@ -143,7 +143,8 @@ run.bat
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+<img width="1861" height="885" alt="image" src="https://github.com/user-attachments/assets/898a88cb-ac74-4d0f-8ca4-08915393cc46" />
+
 
 ---
 
@@ -156,9 +157,16 @@ run.bat
 
 ---
 
+
+## 🤖 AI tool used
+
+* 🧑‍💻 Google Antigravity
+* 🧑‍💻 ChatGPT
+
+
 ## 🙌 Author
 
-* Your Name
+* Priyanshi Gupta
 
 ---
 
